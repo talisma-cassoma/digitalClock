@@ -1,5 +1,5 @@
 # digitalClock
-this is a clock counter that i made for fun i learned about css propriety **transform: scale()**
+this is a clock counter that i made for fun i learned about css propriety **transition** and **the difference  between class, id and name**
 
 this is also **my first projet using JavaScript**, the js code is responsable for get the **operative system time**
 
