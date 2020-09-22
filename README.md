@@ -1,7 +1,7 @@
 # digitalClock
 this is a clock counter that i made for fun i learned about css propriety **transform: scale()**
 
-this is also **my first projet using JavaScript**, the js code is resposable for get the **operative system time**
+this is also **my first projet using JavaScript**, the js code is responsable for get the **operative system time**
 
 and when on mouve over changes size what make a very cool efects of deformation size
 
